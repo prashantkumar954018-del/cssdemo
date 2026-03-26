@@ -1,0 +1,40 @@
+body{
+    background-color: coral;
+}
+h1{
+    color: blue;
+}
+.head{
+    color:darkblue
+}
+h2{
+    font-size: 45px;
+    background-color: lightgreen;
+}
+.red{
+    color: red;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+#para{
+    color: green;
+    font-size: 20px;
+}
+.black{
+    color: black;
+}
+a{
+    color: blue;
+    text-decoration: underline;
+}
+ul{
+    color: white;
+}
+ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
